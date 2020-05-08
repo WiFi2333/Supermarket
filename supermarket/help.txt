@@ -1,0 +1,3 @@
+可执行程序：release -> QNeuSupermarket.exe
+账户、密码文件：release -> user -> account.csv
+(超级管理员账号：root，密码：hhhjt)
